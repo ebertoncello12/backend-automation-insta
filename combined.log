@@ -1,0 +1,528 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:03:59.398Z"}
+{"level":"info","message":"Process initialized","taskId":"edbe0a1f-63ad-4d0d-8fe7-98245d6e5d7e","timestamp":"2025-02-12T01:04:36.605Z","totalItems":22}
+{"level":"info","message":"Starting close friends addition process","taskId":"edbe0a1f-63ad-4d0d-8fe7-98245d6e5d7e","timestamp":"2025-02-12T01:04:37.245Z"}
+{"level":"info","message":"Close friends addition process completed","taskId":"edbe0a1f-63ad-4d0d-8fe7-98245d6e5d7e","timestamp":"2025-02-12T01:07:18.159Z"}
+{"level":"info","message":"Process initialized","taskId":"9ac85537-0f3a-4aa0-b7ed-5e50390a0c81","timestamp":"2025-02-12T01:10:18.804Z","totalItems":22}
+{"level":"info","message":"Starting close friends addition process","taskId":"9ac85537-0f3a-4aa0-b7ed-5e50390a0c81","timestamp":"2025-02-12T01:10:19.605Z"}
+{"level":"info","message":"Close friends addition process completed","taskId":"9ac85537-0f3a-4aa0-b7ed-5e50390a0c81","timestamp":"2025-02-12T01:12:58.768Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:35:07.579Z"}
+{"level":"info","message":"Process initialized","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:08.826Z","totalItems":22}
+{"level":"info","message":"Starting close friends addition process","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:09.522Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.687Z","username":"vitoriapassosss"}
+{"error":"Error processing follower: vitoriapassosss","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.689Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.694Z","username":"gilbertochaves96"}
+{"error":"Error processing follower: gilbertochaves96","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.696Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.712Z","username":"dixx.glorinha_"}
+{"error":"Error processing follower: dixx.glorinha_","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.713Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.724Z","username":"salve.bel_parameninas13"}
+{"error":"Error processing follower: salve.bel_parameninas13","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.725Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.736Z","username":"dixx.lindinha76"}
+{"error":"Error processing follower: dixx.lindinha76","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.738Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.744Z","username":"tatimoreirapsi"}
+{"error":"Error processing follower: tatimoreirapsi","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.745Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.756Z","username":"8.cd0"}
+{"error":"Error processing follower: 8.cd0","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.757Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.763Z","username":"livia.snts"}
+{"error":"Error processing follower: livia.snts","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.764Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.774Z","username":"_cesarsilvagoes"}
+{"error":"Error processing follower: _cesarsilvagoes","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.775Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.780Z","username":"euu_sabrinaaa"}
+{"error":"Error processing follower: euu_sabrinaaa","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.785Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.792Z","username":"nayelicastro058"}
+{"error":"Error processing follower: nayelicastro058","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.793Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.802Z","username":"2541.rebecca"}
+{"error":"Error processing follower: 2541.rebecca","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.803Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.808Z","username":"man102868"}
+{"error":"Error processing follower: man102868","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.809Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.814Z","username":"memessssssdusightj7k"}
+{"error":"Error processing follower: memessssssdusightj7k","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.819Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.824Z","username":"tatianajofredoss"}
+{"error":"Error processing follower: tatianajofredoss","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.825Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.837Z","username":"diix.da.silvaa"}
+{"error":"Error processing follower: diix.da.silvaa","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.839Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.847Z","username":"munhozz06.2"}
+{"error":"Error processing follower: munhozz06.2","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.849Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.870Z","username":"dix.mascotte"}
+{"error":"Error processing follower: dix.mascotte","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.871Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.907Z","username":"luizfilipi12"}
+{"error":"Error processing follower: luizfilipi12","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.908Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.922Z","username":"dasativado.015"}
+{"error":"Error processing follower: dasativado.015","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.924Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.931Z","username":"awolkers_"}
+{"error":"Error processing follower: awolkers_","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.937Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:35:24.945Z","username":"jooh_amoriim"}
+{"error":"Error processing follower: jooh_amoriim","level":"error","message":"Process error","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.946Z"}
+{"level":"info","message":"Close friends addition process completed","taskId":"739a2e3e-6685-4c4f-b666-68398a63dfdb","timestamp":"2025-02-12T01:35:24.946Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:35:45.037Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:47:24.309Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T01:47:37.375Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Expected array, received string"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T01:49:20.305Z"}
+{"level":"info","message":"Client connected","socketId":"CpubPE5w-SeVj3RnAAAC","timestamp":"2025-02-12T01:49:20.326Z"}
+{"level":"info","message":"Client disconnected","socketId":"CpubPE5w-SeVj3RnAAAC","timestamp":"2025-02-12T01:49:20.343Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:52:34.991Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:52:43.430Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:52:48.779Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:52:58.073Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:53:39.457Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:53:44.114Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:53:44.115Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T01:54:32.398Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:54:34.686Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:54:39.539Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:54:39.541Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:55:12.679Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:55:16.602Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:55:16.603Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:55:42.283Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:55:44.083Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:55:44.085Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:56:35.569Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:56:37.199Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:56:37.200Z"}
+{"level":"info","message":"Client connected","socketId":"8m8JN84bvQklzGpFAAAB","timestamp":"2025-02-12T01:56:41.487Z"}
+{"level":"info","message":"Process initialized","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:56:41.520Z","totalItems":22}
+{"level":"info","message":"Client disconnected","socketId":"8m8JN84bvQklzGpFAAAB","timestamp":"2025-02-12T01:56:46.954Z"}
+{"level":"info","message":"Starting close friends addition process","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:56:50.705Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.506Z","username":"vitoriapassosss"}
+{"error":"Error processing follower: vitoriapassosss","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.508Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.514Z","username":"gilbertochaves96"}
+{"error":"Error processing follower: gilbertochaves96","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.515Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.549Z","username":"dixx.glorinha_"}
+{"error":"Error processing follower: dixx.glorinha_","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.552Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.578Z","username":"salve.bel_parameninas13"}
+{"error":"Error processing follower: salve.bel_parameninas13","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.579Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.606Z","username":"dixx.lindinha76"}
+{"error":"Error processing follower: dixx.lindinha76","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.607Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.627Z","username":"tatimoreirapsi"}
+{"error":"Error processing follower: tatimoreirapsi","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.629Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.636Z","username":"8.cd0"}
+{"error":"Error processing follower: 8.cd0","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.637Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.643Z","username":"livia.snts"}
+{"error":"Error processing follower: livia.snts","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.644Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.653Z","username":"_cesarsilvagoes"}
+{"error":"Error processing follower: _cesarsilvagoes","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.655Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.660Z","username":"euu_sabrinaaa"}
+{"error":"Error processing follower: euu_sabrinaaa","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.661Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.667Z","username":"nayelicastro058"}
+{"error":"Error processing follower: nayelicastro058","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.668Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.674Z","username":"2541.rebecca"}
+{"error":"Error processing follower: 2541.rebecca","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.676Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.682Z","username":"man102868"}
+{"error":"Error processing follower: man102868","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.685Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.690Z","username":"memessssssdusightj7k"}
+{"error":"Error processing follower: memessssssdusightj7k","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.691Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.696Z","username":"tatianajofredoss"}
+{"error":"Error processing follower: tatianajofredoss","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.697Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.705Z","username":"diix.da.silvaa"}
+{"error":"Error processing follower: diix.da.silvaa","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.706Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.711Z","username":"munhozz06.2"}
+{"error":"Error processing follower: munhozz06.2","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.712Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.720Z","username":"dix.mascotte"}
+{"error":"Error processing follower: dix.mascotte","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.721Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.726Z","username":"luizfilipi12"}
+{"error":"Error processing follower: luizfilipi12","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.727Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.732Z","username":"dasativado.015"}
+{"error":"Error processing follower: dasativado.015","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.733Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.743Z","username":"awolkers_"}
+{"error":"Error processing follower: awolkers_","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.743Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T01:57:07.749Z","username":"jooh_amoriim"}
+{"error":"Error processing follower: jooh_amoriim","level":"error","message":"Process error","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.752Z"}
+{"level":"info","message":"Close friends addition process completed","taskId":"a871348c-c740-4347-be9e-555490ab0755","timestamp":"2025-02-12T01:57:07.753Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:57:37.027Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:57:41.147Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:57:41.148Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:58:13.148Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:58:16.991Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:58:16.992Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T01:58:34.194Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T01:58:38.075Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T01:58:38.075Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:01:10.921Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:01:15.004Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:01:15.005Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T02:02:13.339Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:04:20.398Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:04:25.524Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:04:25.525Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:04:30.061Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:04:30.255Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:04:31.564Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:04:31.566Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:04:32.158Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:04:32.159Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:05:19.475Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:05:19.650Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:05:20.599Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:05:20.600Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:05:24.066Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:05:24.066Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:06:09.316Z","username":"squadomal@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:06:10.624Z","username":"squadomal@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:06:10.624Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:06:15.562Z","username":"squadomal@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:06:17.320Z","username":"squadomal@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:06:17.321Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:06:24.291Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:06:28.193Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:06:28.194Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:10:08.818Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:10:12.848Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:10:12.849Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:11:59.116Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:11:59.153Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:12:00.228Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:12:00.229Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:12:03.103Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:12:03.104Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:12:08.275Z"}
+{"level":"info","message":"Client connected","socketId":"owcpok26Ipyj6B0HAAAB","timestamp":"2025-02-12T02:12:08.291Z"}
+{"level":"info","message":"Client disconnected","socketId":"owcpok26Ipyj6B0HAAAB","timestamp":"2025-02-12T02:12:08.309Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:12:17.236Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:12:19.447Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:12:29.212Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:12:29.222Z","username":"piratadabet@gmail.com"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:12:29.791Z"}
+{"level":"info","message":"Client connected","socketId":"XUi7jqEEh3mWQJnZAAAF","timestamp":"2025-02-12T02:12:29.811Z"}
+{"level":"info","message":"Client disconnected","socketId":"XUi7jqEEh3mWQJnZAAAF","timestamp":"2025-02-12T02:12:29.852Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:12:30.150Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:12:30.151Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:12:30.644Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:12:30.645Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:12:30.939Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:12:31.423Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:12:49.235Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:12:49.245Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:12:50.151Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:12:50.152Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:12:50.726Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:12:50.727Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:13:47.315Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:14:44.780Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:14:44.797Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:14:45.690Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:14:45.691Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:14:46.313Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:14:46.314Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:14:53.893Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:15:58.027Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:15:58.035Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:15:58.912Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:15:58.912Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:16:02.088Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:16:02.095Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:16:09.189Z","username":"piratadabet@gmail.com"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:16:09.206Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:16:10.405Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:16:10.406Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:16:10.803Z","username":"piratadabet@gmail.com"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:16:10.804Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:16:28.184Z"}
+{"level":"info","message":"Client connected","socketId":"9_oUN40XsQn9vjisAAAL","timestamp":"2025-02-12T02:16:28.192Z"}
+{"level":"info","message":"Client disconnected","socketId":"9_oUN40XsQn9vjisAAAL","timestamp":"2025-02-12T02:16:28.205Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:19:19.528Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:19:19.538Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:19:20.808Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:19:20.809Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:19:23.983Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:19:23.984Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:19:59.751Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:20:01.442Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:20:01.443Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:20:40.890Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:20:40.899Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:20:41.739Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:20:41.740Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:20:45.952Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:20:45.952Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:21:04.765Z"}
+{"level":"info","message":"Client connected","socketId":"K4PHlC7LhwtW3jwUAAAN","timestamp":"2025-02-12T02:21:04.781Z"}
+{"level":"info","message":"Client disconnected","socketId":"K4PHlC7LhwtW3jwUAAAN","timestamp":"2025-02-12T02:21:04.788Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:22:18.098Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:22:18.120Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:22:18.936Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:22:18.936Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:22:19.822Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:22:19.823Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:23:12.049Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:23:23.482Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:23:23.488Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:23:24.206Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:23:24.207Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:23:24.808Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:23:24.811Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:24:12.826Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:24:12.841Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:24:13.589Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:24:13.590Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:24:14.613Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:24:14.614Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:25:00.902Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:25:00.910Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:25:01.560Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:25:01.561Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:25:02.240Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:25:02.240Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:25:22.766Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:25:22.779Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:25:23.535Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:25:23.536Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:25:24.511Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:25:24.511Z"}
+{"error":"\"[object Object]\" is not valid JSON","level":"error","message":"Unhandled error","method":"POST","path":"/api/instagram/analytics","stack":"SyntaxError: \"[object Object]\" is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-02-12T02:26:35.318Z"}
+{"error":"\"[object Object]\" is not valid JSON","level":"error","message":"Unhandled error","method":"POST","path":"/api/instagram/analytics","stack":"SyntaxError: \"[object Object]\" is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-02-12T02:26:45.019Z"}
+{"error":"\"[object Object]\" is not valid JSON","level":"error","message":"Unhandled error","method":"POST","path":"/api/instagram/analytics","stack":"SyntaxError: \"[object Object]\" is not valid JSON\n    at JSON.parse (<anonymous>)\n    at parse (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\body-parser\\lib\\types\\json.js:92:19)\n    at C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\body-parser\\lib\\read.js:128:18\n    at AsyncResource.runInAsyncScope (node:async_hooks:206:9)\n    at invokeCallback (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:238:16)\n    at done (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:227:7)\n    at IncomingMessage.onEnd (C:\\Users\\enzzo\\Downloads\\tester\\node_modules\\raw-body\\index.js:287:7)\n    at IncomingMessage.emit (node:events:519:28)\n    at endReadableNT (node:internal/streams/readable:1696:12)\n    at processTicksAndRejections (node:internal/process/task_queues:82:21)","timestamp":"2025-02-12T02:26:45.022Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:26:53.304Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:26:57.434Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:26:57.435Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:27:03.859Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:27:03.869Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:27:04.610Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:27:04.657Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:27:05.454Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:27:05.455Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:27:17.039Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:27:18.915Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:27:18.916Z"}
+{"level":"info","message":"Process initialized","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:23.011Z","totalItems":22}
+{"level":"info","message":"Starting close friends addition process","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:24.323Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.290Z","username":"vitoriapassosss"}
+{"error":"Error processing follower: vitoriapassosss","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.291Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.296Z","username":"gilbertochaves96"}
+{"error":"Error processing follower: gilbertochaves96","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.297Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.306Z","username":"dixx.glorinha_"}
+{"error":"Error processing follower: dixx.glorinha_","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.307Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.312Z","username":"salve.bel_parameninas13"}
+{"error":"Error processing follower: salve.bel_parameninas13","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.313Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.322Z","username":"dixx.lindinha76"}
+{"error":"Error processing follower: dixx.lindinha76","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.323Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.328Z","username":"tatimoreirapsi"}
+{"error":"Error processing follower: tatimoreirapsi","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.329Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.337Z","username":"8.cd0"}
+{"error":"Error processing follower: 8.cd0","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.338Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.342Z","username":"livia.snts"}
+{"error":"Error processing follower: livia.snts","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.343Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.347Z","username":"_cesarsilvagoes"}
+{"error":"Error processing follower: _cesarsilvagoes","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.348Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.356Z","username":"euu_sabrinaaa"}
+{"error":"Error processing follower: euu_sabrinaaa","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.357Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.361Z","username":"nayelicastro058"}
+{"error":"Error processing follower: nayelicastro058","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.362Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.368Z","username":"2541.rebecca"}
+{"error":"Error processing follower: 2541.rebecca","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.369Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.375Z","username":"man102868"}
+{"error":"Error processing follower: man102868","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.375Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.379Z","username":"memessssssdusightj7k"}
+{"error":"Error processing follower: memessssssdusightj7k","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.380Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.387Z","username":"tatianajofredoss"}
+{"error":"Error processing follower: tatianajofredoss","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.388Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.392Z","username":"diix.da.silvaa"}
+{"error":"Error processing follower: diix.da.silvaa","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.393Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.397Z","username":"munhozz06.2"}
+{"error":"Error processing follower: munhozz06.2","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.398Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.405Z","username":"dix.mascotte"}
+{"error":"Error processing follower: dix.mascotte","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.406Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.410Z","username":"luizfilipi12"}
+{"error":"Error processing follower: luizfilipi12","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.411Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.421Z","username":"dasativado.015"}
+{"error":"Error processing follower: dasativado.015","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.422Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.427Z","username":"awolkers_"}
+{"error":"Error processing follower: awolkers_","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.428Z"}
+{"error":"No element found for selector: input[placeholder=\"Pesquisar\"]","level":"error","message":"Error processing follower","timestamp":"2025-02-12T02:27:39.438Z","username":"jooh_amoriim"}
+{"error":"Error processing follower: jooh_amoriim","level":"error","message":"Process error","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.439Z"}
+{"level":"info","message":"Close friends addition process completed","taskId":"085eda4d-e087-4ebf-9dda-389c53e90369","timestamp":"2025-02-12T02:27:39.440Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:29:17.044Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:29:17.055Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:29:17.743Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:29:17.744Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:29:18.408Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:29:18.408Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T02:31:08.836Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T02:33:59.579Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:34:04.875Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:34:05.440Z","username":"dixx.enzzinhoo"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:34:05.622Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:34:06.574Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:34:06.575Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:34:07.325Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:34:07.370Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:34:07.818Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:34:08.505Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:34:09.109Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:35:15.871Z","username":"dixx.enzzinhoo"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:35:15.883Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:35:16.732Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; We can send you an email to help you get back into your account.","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:35:16.733Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:35:20.431Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:35:20.432Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:35:39.310Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:35:39.565Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:35:39.566Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:35:41.292Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:35:41.534Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:35:41.535Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:36:30.918Z","username":""}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:36:30.928Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:36:31.134Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:36:31.135Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:36:31.174Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:36:31.175Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:36:39.440Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T02:37:18.921Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:39:18.600Z","username":""}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:39:18.623Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:39:18.855Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:39:18.856Z"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:39:18.875Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:39:18.876Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T02:39:46.480Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T02:39:46.717Z","username":""}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; Invalid Parameters","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T02:39:46.718Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T05:58:51.721Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T06:04:51.030Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T06:04:57.037Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T06:04:57.040Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T06:05:03.865Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T06:05:42.197Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T06:05:44.615Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T06:05:44.616Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T06:06:15.669Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T06:06:19.940Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T06:06:19.942Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:13:25.019Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T06:13:54.504Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in Instagram authentication","timestamp":"2025-02-12T06:13:57.696Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T06:13:57.697Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T06:14:50.191Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in Instagram authentication","timestamp":"2025-02-12T06:14:55.757Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T06:14:55.758Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:16:04.624Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:24:35.607Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:24:47.778Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:25:28.990Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:25:38.118Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:25:58.820Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:26:05.312Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:26:22.461Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:26:32.844Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T06:26:47.647Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]},"password":{"_errors":["Required"]},"username":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T06:26:51.626Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:27:20.284Z"}
+{"errors":{"_errors":[],"followers":{"_errors":["Required"]}},"level":"warn","message":"Invalid request data for addToCloseFriends","timestamp":"2025-02-12T06:27:38.316Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:28:12.008Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:28:19.301Z"}
+{"level":"info","message":"Process initialized","taskId":"6ef44178-34c9-4ecd-ab5c-185e9d295c02","timestamp":"2025-02-12T06:28:20.624Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"0x5kUAzAIxXZ8icuAAAE","timestamp":"2025-02-12T06:28:20.684Z"}
+{"level":"info","message":"Client disconnected","socketId":"0x5kUAzAIxXZ8icuAAAE","timestamp":"2025-02-12T06:30:24.123Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:30:34.539Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:30:42.512Z"}
+{"level":"info","message":"Process initialized","taskId":"33ea020a-f455-49bc-8329-4b84ec8ae20e","timestamp":"2025-02-12T06:30:44.006Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"BDyMuXMnX63wa-1iAAAG","timestamp":"2025-02-12T06:30:44.021Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:31:19.927Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:31:28.455Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:31:33.158Z"}
+{"level":"info","message":"Process initialized","taskId":"f24b828b-fb04-4940-b423-e989ba361c07","timestamp":"2025-02-12T06:31:34.186Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"F1YeAqiuclZSCgz1AAAB","timestamp":"2025-02-12T06:31:34.212Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:32:28.538Z"}
+{"level":"info","message":"Client connected","socketId":"EHCGbYxXfqu0mETqAAAB","timestamp":"2025-02-12T06:32:28.577Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:32:35.090Z"}
+{"level":"info","message":"Client connected","socketId":"dSFe3_cpBfTq1dTcAAAB","timestamp":"2025-02-12T06:32:35.282Z"}
+{"level":"info","message":"Client disconnected","socketId":"dSFe3_cpBfTq1dTcAAAB","timestamp":"2025-02-12T06:32:52.201Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:32:59.895Z"}
+{"level":"info","message":"Process initialized","taskId":"4f53ce36-8fd9-4c69-a804-525ef7ff262e","timestamp":"2025-02-12T06:33:01.076Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"blyDAv9ZvJA9G4FbAAAD","timestamp":"2025-02-12T06:33:01.096Z"}
+{"level":"info","message":"Client disconnected","socketId":"blyDAv9ZvJA9G4FbAAAD","timestamp":"2025-02-12T06:34:52.724Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:34:58.228Z"}
+{"level":"info","message":"Process initialized","taskId":"455a87a1-88bf-4f07-b47b-b06f9e58bce1","timestamp":"2025-02-12T06:34:59.144Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"gf8b0wdGfjVyqCWGAAAF","timestamp":"2025-02-12T06:34:59.168Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:35:23.332Z"}
+{"level":"info","message":"Client connected","socketId":"zDhwc1K9pGX2Qn_gAAAB","timestamp":"2025-02-12T06:35:23.542Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:35:31.980Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:35:36.627Z"}
+{"level":"info","message":"Process initialized","taskId":"9c437643-92b6-4fc7-8df6-a4e4d22ba9df","timestamp":"2025-02-12T06:35:37.553Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"sqRKMxJ_Eac9VSoNAAAB","timestamp":"2025-02-12T06:35:37.576Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:36:05.285Z"}
+{"level":"info","message":"Client connected","socketId":"r6_2CgN-LsDjnHxfAAAB","timestamp":"2025-02-12T06:36:05.407Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:38:38.542Z"}
+{"level":"info","message":"Process initialized","taskId":"6d636983-0b94-49f8-a2ea-d7d27c299183","timestamp":"2025-02-12T06:39:05.710Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"Im8s0umcLW1WcTpZAAAD","timestamp":"2025-02-12T06:39:05.717Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:39:33.490Z"}
+{"level":"info","message":"Client connected","socketId":"IEiz4IDDNOlzQM2jAAAC","timestamp":"2025-02-12T06:39:33.588Z"}
+{"level":"info","message":"Client connected","socketId":"4bGCo0_4o8ew7CgLAAAD","timestamp":"2025-02-12T06:39:33.591Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:43:12.694Z"}
+{"level":"info","message":"Client disconnected","socketId":"4bGCo0_4o8ew7CgLAAAD","timestamp":"2025-02-12T06:43:15.815Z"}
+{"level":"info","message":"Client disconnected","socketId":"IEiz4IDDNOlzQM2jAAAC","timestamp":"2025-02-12T06:43:15.830Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:43:24.016Z"}
+{"level":"info","message":"Process initialized","taskId":"419cfc1c-31aa-424f-b5c5-d3878b89a6a2","timestamp":"2025-02-12T06:43:25.732Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"qdM-kjxrWXVVlhnvAAAF","timestamp":"2025-02-12T06:43:25.737Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:45:17.344Z"}
+{"level":"info","message":"Client connected","socketId":"KXIy2pT2Z1r4x3mKAAAB","timestamp":"2025-02-12T06:45:17.417Z"}
+{"level":"info","message":"Client disconnected","socketId":"KXIy2pT2Z1r4x3mKAAAB","timestamp":"2025-02-12T06:45:19.908Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:45:24.809Z"}
+{"level":"info","message":"Process initialized","taskId":"890ac827-f784-4453-bd71-96bde63b7d60","timestamp":"2025-02-12T06:45:25.795Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"2Jsi207rWbA4mLJIAAAD","timestamp":"2025-02-12T06:45:25.801Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:45:46.405Z"}
+{"level":"info","message":"Client connected","socketId":"SknOEwCGzVkM0mcvAAAB","timestamp":"2025-02-12T06:45:46.610Z"}
+{"level":"info","message":"Client disconnected","socketId":"SknOEwCGzVkM0mcvAAAB","timestamp":"2025-02-12T06:45:52.243Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:45:57.280Z"}
+{"level":"info","message":"Process initialized","taskId":"b7423ecc-408e-4035-af25-c80ad47e04e1","timestamp":"2025-02-12T06:45:58.144Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"jxf0OjNkMI6CCC6nAAAD","timestamp":"2025-02-12T06:45:58.151Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:46:13.113Z"}
+{"level":"info","message":"Client connected","socketId":"WOYfLBAPmThgk9mGAAAB","timestamp":"2025-02-12T06:46:13.157Z"}
+{"level":"info","message":"Client disconnected","socketId":"WOYfLBAPmThgk9mGAAAB","timestamp":"2025-02-12T06:46:19.568Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:46:24.262Z"}
+{"level":"info","message":"Progress update emitted","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:25.059Z"}
+{"level":"info","message":"Process initialized","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:25.060Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"dknFsuXrGUiLCU3FAAAD","timestamp":"2025-02-12T06:46:25.086Z"}
+{"level":"info","message":"Progress update emitted","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:28.085Z"}
+{"level":"info","message":"Progress update emitted","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:30.099Z"}
+{"level":"info","message":"Progress update emitted","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:32.110Z"}
+{"level":"info","message":"Progress update emitted","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:34.116Z"}
+{"level":"info","message":"Progress update emitted","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:36.125Z"}
+{"level":"info","message":"Progress update emitted","taskId":"89bc90d5-ee8f-420f-a606-af87e07d484d","timestamp":"2025-02-12T06:46:38.245Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:46:42.255Z"}
+{"level":"info","message":"Client connected","socketId":"D6G2AlK_gaj5lxeqAAAB","timestamp":"2025-02-12T06:46:44.873Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:46:57.002Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:47:11.060Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:47:38.730Z"}
+{"level":"info","message":"Process initialized","taskId":"b37d30f0-c52a-4be8-bee9-90ec03e1ff95","timestamp":"2025-02-12T06:47:39.532Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"jAygSuVv4iC35oSHAAAB","timestamp":"2025-02-12T06:47:39.540Z"}
+{"level":"info","message":"Client disconnected","socketId":"jAygSuVv4iC35oSHAAAB","timestamp":"2025-02-12T06:48:24.744Z"}
+{"level":"info","message":"Process initialized","taskId":"b87978c0-d610-460e-8a04-2883d12cb3bc","timestamp":"2025-02-12T06:48:33.492Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"rpNFYlZhHnyLgRSBAAAD","timestamp":"2025-02-12T06:48:33.497Z"}
+{"level":"info","message":"Client disconnected","socketId":"rpNFYlZhHnyLgRSBAAAD","timestamp":"2025-02-12T06:48:35.427Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:48:42.071Z"}
+{"level":"info","message":"Process initialized","taskId":"afa64e2c-7a73-4ab9-885c-62f439549f4c","timestamp":"2025-02-12T06:48:43.168Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"sRmVRbGV0Oun8k0OAAAF","timestamp":"2025-02-12T06:48:43.173Z"}
+{"level":"info","message":"Client disconnected","socketId":"sRmVRbGV0Oun8k0OAAAF","timestamp":"2025-02-12T06:48:52.917Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T06:49:01.631Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:49:04.388Z"}
+{"level":"info","message":"Process initialized","taskId":"1d07a1bf-ddf8-4fe8-8459-455c3d01c4cf","timestamp":"2025-02-12T06:49:06.916Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"iDoF00PbMsPU9hu1AAAB","timestamp":"2025-02-12T06:49:06.924Z"}
+{"level":"info","message":"Client disconnected","socketId":"iDoF00PbMsPU9hu1AAAB","timestamp":"2025-02-12T06:49:52.080Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:50:12.054Z"}
+{"level":"info","message":"Process initialized","taskId":"7fb301c4-fa54-4dae-ab5b-7eff25b8a019","timestamp":"2025-02-12T06:50:18.285Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"ehY9sPB0oIavKINgAAAD","timestamp":"2025-02-12T06:50:18.288Z"}
+{"level":"info","message":"Client disconnected","socketId":"ehY9sPB0oIavKINgAAAD","timestamp":"2025-02-12T06:51:03.462Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T06:52:46.901Z"}
+{"level":"info","message":"Process initialized","taskId":"fb20d5f0-3a94-460c-b3a0-683c4ec40f9d","timestamp":"2025-02-12T06:53:03.365Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"Q45PqM1dr7c8Lko0AAAF","timestamp":"2025-02-12T06:53:03.369Z"}
+{"level":"info","message":"Client disconnected","socketId":"Q45PqM1dr7c8Lko0AAAF","timestamp":"2025-02-12T06:53:48.508Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T18:40:38.066Z"}
+{"level":"info","message":"Using mock data for profile analytics","timestamp":"2025-02-12T18:41:44.230Z"}
+{"level":"info","message":"Process initialized","taskId":"f3628448-f183-4f56-8ca0-e1d83b36dd9f","timestamp":"2025-02-12T18:41:52.594Z","totalItems":22}
+{"level":"info","message":"Client connected","socketId":"kVYYfwmW9ZovKxD6AAAB","timestamp":"2025-02-12T18:41:52.616Z"}
+{"level":"info","message":"Client disconnected","socketId":"kVYYfwmW9ZovKxD6AAAB","timestamp":"2025-02-12T18:42:12.621Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T18:44:07.134Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T18:45:15.645Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T18:45:23.007Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T18:49:09.969Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2025-02-12T18:49:56.599Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T18:50:07.059Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T18:50:11.003Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T18:50:11.005Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T18:50:25.162Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T18:50:27.617Z","username":"dixx.enzzinhoo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T18:50:27.619Z"}
+{"level":"info","message":"Starting profile analytics collection","timestamp":"2025-02-12T18:51:50.685Z","username":"math_diogo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error collecting profile analytics","timestamp":"2025-02-12T18:51:55.370Z","username":"math_diogo"}
+{"error":"POST /api/v1/accounts/login/ - 400 Bad Request; challenge_required","level":"error","message":"Error in getProfileAnalytics controller","timestamp":"2025-02-12T18:51:55.372Z"}
