@@ -84,14 +84,14 @@ export class InstagramService {
       for (const follower of followers) {
         try {
           await page.type('input[placeholder="Pesquisar"]', follower);
-          await this.delay(2000);
+          await this.delay(1000);
 
           const toggleButtons = await page.$$('div[role="button"]');
           for (const button of toggleButtons) {
             try {
               await button.click();
               this.progressService.updateProgress(taskId, follower);
-              await this.delay(2000);
+              await this.delay(1000);
               break;
             } catch (error) {
               logger.error('Error clicking button for user', { 
@@ -103,7 +103,7 @@ export class InstagramService {
 
           await page.click('input[placeholder="Pesquisar"]', { clickCount: 3 });
           await page.keyboard.press('Backspace');
-          await this.delay(2000);
+          await this.delay(1000);
         } catch (error) {
           logger.error('Error processing follower', { 
             username: follower,
@@ -140,20 +140,6 @@ export class InstagramService {
       const feed = this.ig.feed.user(userInfo.pk);
       const mediaItems = await feed.items();
       
-      const recentPosts = await Promise.all(
-        mediaItems.slice(0, 10).map(async (post) => {
-          const comments = await this.ig.media.comments(post.id).items();
-          return {
-            id: post.id,
-            imageUrl: post.image_versions2?.candidates[0]?.url || '',
-            caption: post.caption?.text || '',
-            likes: post.like_count,
-            comments: comments.length,
-            timestamp: post.taken_at,
-            engagement: ((post.like_count + comments.length) / userInfo.follower_count) * 100
-          };
-        })
-      );
 
       const analytics = {
         profile: {
@@ -164,17 +150,8 @@ export class InstagramService {
           isPrivate: userInfo.is_private,
           isVerified: userInfo.is_verified
         },
-        statistics: {
-          followers: userInfo.follower_count,
-          following: userInfo.following_count,
-          posts: userInfo.media_count,
-          averageEngagement: recentPosts.reduce((sum, post) => sum + post.engagement, 0) / recentPosts.length
-        },
-        recentPosts,
-        engagementOverTime: recentPosts.map(post => ({
-          timestamp: post.timestamp,
-          engagement: post.engagement
-        })),
+    
+        
         followerGrowth: {
           daily: Math.floor(Math.random() * 100), // This would need real historical data
           weekly: Math.floor(Math.random() * 500), // This would need real historical data
